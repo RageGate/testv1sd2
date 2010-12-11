@@ -48,6 +48,8 @@ include/sc_grid_searchers.h \
 include/sc_instance.cpp \
 include/sc_instance.h \
 scripts/battlegrounds/battleground.cpp \
+scripts/custom/IsleOfMasters/CopperToGold.cpp \
+scripts/custom/IsleOfMasters/TeleportMaster.cpp \
 scripts/eastern_kingdoms/alterac_mountains.cpp \
 scripts/eastern_kingdoms/arathi_highlands.cpp \
 scripts/eastern_kingdoms/blasted_lands.cpp \
